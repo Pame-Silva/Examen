@@ -1,0 +1,90 @@
+/* Header */
+.block {
+	margin-left: 40px;
+	font-family: Helvetica;
+	color: white;
+	background-color: #696969;
+}
+
+/*Listado*/
+.listado li {
+   display: inline-table;
+   color: white;
+   margin-left: 5px;
+   margin-right: 5px;
+   padding-left: 5px;
+   text-align: right;
+}
+
+p {
+   color:#888;
+}
+
+li a {
+   color: white;
+   font-size: 10px;
+   font-family: Helvetica;
+   text-decoration: none;
+   text-align: right;
+}
+
+.col-6 {
+	background-color: white;
+}
+
+/*Imagen*/
+.header {
+	width: 450px;
+	height: 300px;
+	text-align: center;
+}
+
+/*6 Imagenes y texto*/
+.lista-projects{
+   display: inline-block;
+   color: white;
+   margin-left: 5px;
+   margin-right: 5px;
+   padding-left: 5px;
+   text-align: right;
+}
+
+li a {
+   color: #888;
+   font-size: 10px;
+   font-family: Helvetica;
+   text-decoration: none;
+   text-align: right;
+}
+
+h2 {
+   color: #888;
+   margin-right: 10px;
+}
+.main-pic {
+   display: inline-block;
+}
+
+.img-left {
+   color: #888;
+   font-size: 10px;
+   font-family: Helvetica;
+}
+
+.img-right {
+   color: #888;
+   font-size: 10px;
+   font-family: Helvetica;
+}
+
+h5 {
+   font-size: 12px;
+   font-family: Helvetica;
+}
+
+.icons {
+	font-size: 10px;
+   font-family: Helvetica;
+	color: #888;
+   display: inline;
+}
